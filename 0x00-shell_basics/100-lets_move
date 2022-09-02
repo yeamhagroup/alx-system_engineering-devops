@@ -1,0 +1,2 @@
+#!/bin/ibash
+mv [[:upper:]]* /tmp/u

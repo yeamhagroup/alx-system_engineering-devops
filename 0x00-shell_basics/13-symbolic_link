@@ -1,0 +1,2 @@
+#!/bin/ibash
+ln -s /bin/ls __ls__
