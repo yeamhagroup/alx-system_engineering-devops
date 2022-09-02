@@ -1,2 +1,0 @@
-#!/bin/ibash
-chown --from=guillaume betty hello
