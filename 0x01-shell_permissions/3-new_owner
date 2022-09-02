@@ -1,0 +1,2 @@
+#!/bin/ibash
+chown betty hello

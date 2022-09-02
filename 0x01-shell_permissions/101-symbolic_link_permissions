@@ -1,0 +1,2 @@
+#!/bin/ibash
+chown -h vincent:staff _hello

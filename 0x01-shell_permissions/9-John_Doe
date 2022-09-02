@@ -1,0 +1,2 @@
+#!/bin/ibash
+chmod 753 hello
