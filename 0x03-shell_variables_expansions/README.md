@@ -1,0 +1,1 @@
+list of scripts for project shell variable expansions
